@@ -10,7 +10,6 @@ Estudante de Sistemas de Informação - PUCRS | Desenvolvedor Júnior
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 
 ## 
-###### *Apenas contribuições públicas.
 <a href="https://www.adamalston.com/">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=brunosimm&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=dark" />
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosimm&hide=html,css,scss,handlebars,hack,nunjucks,blade&hide_title=false&hide_border=true&layout=compact&langs_count=5&theme=dark" />
