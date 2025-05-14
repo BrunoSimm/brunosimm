@@ -1,6 +1,7 @@
 # Bruno Simm
-Estudante de Sistemas de Informação - PUCRS | Desenvolvedor Júnior
+Java | Spring | Software Engineer 2 @Dell
 
+Software Engineer specialized in backend development, with solid experience in Java, Spring Boot and Microservices. I graduated with an overall GPA of 9.38/10 in Information Systems from PUCRS, I am determined to create robust and efficient solutions that meet the reality of each business.
 
 ### Languages
 
